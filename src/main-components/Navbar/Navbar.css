@@ -1,0 +1,25 @@
+nav {
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1em 2em;
+    width: 100%;
+    align-items: center;
+}
+
+nav img {
+    height: 6vh;
+    margin-right: 0.4em;
+}
+
+nav h1{
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+}
+
+nav p{
+    font-weight: 400;
+}
